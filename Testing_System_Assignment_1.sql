@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS Exam_management;
+DROP DATABASE IF EXISTS Exam_Management;
 
 CREATE DATABASE IF NOT EXISTS Exam_Management;
 USE Exam_Management;
